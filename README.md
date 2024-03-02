@@ -2,7 +2,7 @@
 
 This repository contains the Swift/WinRT language bindings for types in the `Windows.Foundation` namespace. It also contains general helper APIs used throughout all generated bindings.
 
-These APIs are intendened to be used in conjuction with the following projects:
+These APIs are intended to be used in conjuction with the following projects:
 - [swift-uwp](https://github.com/thebrowsercompany/swift-uwp)
 - [swift-winui](https://github.com/thebrowsercompany/swift-winui)
 - [swift-windowsappsdk](https://github.com/thebrowsercompany/swift-windowsappsdk)
