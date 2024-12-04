@@ -1,5 +1,8 @@
 # Swift Language Bindings for `Windows.Foundation` APIs
 
+> [!WARNING]
+> This project contains an outdated snapshot of a subset of WinRT projections generated with [swift-winrt](https://github.com/thebrowsercompany/swift-winrt), provided for illustration purposes. To use WinRT APIs in your Swift project, we recommend using [swift-winrt](https://github.com/thebrowsercompany/swift-winrt) directly to generate your own projections.
+
 This repository contains the Swift/WinRT language bindings for types in the `Windows.Foundation` namespace. It also contains general helper APIs used throughout all generated bindings.
 
 These APIs are intended to be used in conjuction with the following projects:
